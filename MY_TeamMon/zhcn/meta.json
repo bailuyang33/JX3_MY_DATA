@@ -1,7 +1,7 @@
 {
-  "name": "默认数据",
-  "author": "默认",
-  "version": "20190812",
+  "name": "【问天】自用PVE数据请谨慎加载（20200312）",
+  "author": "白鹿洋",
+  "version": "20200312",
   "data_url": "./data.jx3dat",
   "about": "../README.md"
 }
